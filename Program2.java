@@ -1,4 +1,4 @@
-class Student1{  
+public class Student1{  
 int id;//data member (also instance variable)  
 String name;//data member(also instance variable)
 
