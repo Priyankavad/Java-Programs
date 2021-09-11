@@ -1,5 +1,5 @@
 Creating multiple objects by one type only
-class Rectangle{  
+public class Rectangle{  
 	 int length;  
 	 int width;  
 	  
