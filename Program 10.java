@@ -1,5 +1,5 @@
 Can we overload main() method?
-	class Overloading1{  
+	public class Overloading1{  
 	  public static void main(int a){  
 	  System.out.println(a);  
 	  }  
