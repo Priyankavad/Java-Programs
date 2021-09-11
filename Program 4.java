@@ -1,4 +1,4 @@
-	class Calculation{  
+	public class Calculation{  
 	  
 	 void fact(int  n){  
 	  int fact=1;  
