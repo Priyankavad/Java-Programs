@@ -1,4 +1,4 @@
-Creating multiple objects by one type only
+//Creating multiple objects by one type only
 public class Rectangle{  
 	 int length;  
 	 int width;  
