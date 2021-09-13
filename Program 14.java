@@ -1,4 +1,4 @@
-	class Student5{  
+	public class Student5{  
 	    int id;  
 	    String name;  
 	    int age;  
@@ -14,8 +14,8 @@
 	    void display(){System.out.println(id+" "+name+" "+age);}  
 	   
 	    public static void main(String args[]){  
-	    Student5 s1 = new Student5(111,"Karan");  
-	    Student5 s2 = new Student5(222,"Aryan",25);  
+	    Student5 s1 = new Student5(191,"Anu",40);  
+	    Student5 s2 = new Student5(272,"Chaitra");  
 	    s1.display();  
 	    s2.display();  
 	   }  
