@@ -1,5 +1,5 @@
-Java parameterized constructor
-	class Student4{  
+//Java parameterized constructor
+	public class Student4{  
 	    int id;  
 	    String name;  
 	      
@@ -10,8 +10,8 @@ Java parameterized constructor
 	    void display(){System.out.println(id+" "+name);}  
 	   
 	    public static void main(String args[]){  
-	    Student4 s1 = new Student4(111,"Karan");  
-	    Student4 s2 = new Student4(222,"Aryan");  
+	    Student4 s1 = new Student4(876,"Kani");  
+	    Student4 s2 = new Student4(262,"Ashwin");  
 	    s1.display();  
 	    s2.display();  
 	   }  
