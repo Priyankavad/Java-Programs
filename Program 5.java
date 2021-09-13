@@ -13,8 +13,8 @@
 	  Student2 s1=new Student2();  
 	  Student2 s2=new Student2();  
 	  
-	  s1.insertRecord(111,"Karan");  
-	  s2.insertRecord(222,"Aryan");  
+	  s1.insertRecord(444,"Priya");  
+	  s2.insertRecord(121,"Hem");  
 	  
 	  s1.displayInformation();  
 	  s2.displayInformation();
