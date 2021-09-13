@@ -1,4 +1,4 @@
-	class Student3{  
+	public class Student3{  
 		int id;  
 		String name;  
 	  
