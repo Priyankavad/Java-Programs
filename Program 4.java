@@ -9,6 +9,6 @@
 	}  
 	  
 	public static void main(String args[]){  
-	 new Calculation().fact(5);//calling method with annonymous object  
+	 new Calculation().fact(4);//calling method with annonymous object  
 	}  
 	}  
